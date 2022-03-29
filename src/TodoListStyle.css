@@ -1,0 +1,19 @@
+.todo-list{
+    list-style-type: none;
+}
+.todo-item{
+    font-size:20px
+}
+li{
+    cursor: pointer;
+    padding-left: 0px;
+    margin-top: 20px;
+    color: #fff;
+}
+li.completed{
+    color: #000;
+    font-style:italic;
+    text-decoration: line-through;
+}
+
+

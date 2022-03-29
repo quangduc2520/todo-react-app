@@ -1,0 +1,25 @@
+.root{
+    margin-top: 30px;
+    width: 500px;
+    background-color: #324e9b;
+    border-radius:3px;
+    padding: 10px;
+    min-height: 600px;
+    position: relative;
+}
+
+.buttons{
+    position: absolute;
+    bottom: 40px;
+    left: 80px;
+}
+
+.btn{
+    padding: 8px;
+    font-size: 16px;
+    margin-right: 20px;
+    cursor: pointer;
+}
+h3{
+    color: #d0e2e1;
+}

@@ -1,11 +1,16 @@
 .App {
   text-align: center;
+  font-family: 'Poppins', sans-serif;
+  font-family: 'Roboto', sans-serif;
+  display: flex;
+  justify-content: center;
+
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+html{
+  background-color: #fec4a1;
 }
+
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
